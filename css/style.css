@@ -1,0 +1,22 @@
+.social-icons{
+	float:right;
+	margin:8px 0;
+}
+.social-icons ul li{
+	display:inline-block;
+}
+.social-icons ul li a{
+	color:#363638;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.8em;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+.social-icons ul li a:hover{
+	color:#026660;
+}
+.social-icons ul li a img{
+	vertical-align:middle;
+	padding-right: 5px;
+}
